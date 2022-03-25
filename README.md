@@ -1,6 +1,7 @@
 # TempHu
-A program that measures temperature and humidity on the arduino microcontroller
-The LCD's backlight only turns on when an object is placed in front of the ultrasonic sensor
+A program that measures temperature and humidity on the arduino microcontroller.
+
+The LCD's backlight only turns on when an object is placed in front of the ultrasonic sensor.
 
 ## Materials used
 real time clock RTC_DS3231 
